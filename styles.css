@@ -5,10 +5,10 @@ body{
 }
 h1{
     color:black;
-    font-size:50px;
+    font-size:40px;
 }
 p{
-    font-size:40px;
+    font-size:35px;
 }
 .center{
     text-align:center;
@@ -24,4 +24,7 @@ a:hover{
     background-color:gray;
     padding:2px 10px 2px 10px;
     color:white;
+}
+.border{
+    border:black 5px solid;
 }
