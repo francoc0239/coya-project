@@ -26,5 +26,7 @@ a:hover{
     color:white;
 }
 .border{
-    border:black 5px solid;
+    border:5px solid black;
+    margin:100px 50px 50px 50px;
+    padding:100px 100px 100px 100px;
 }
