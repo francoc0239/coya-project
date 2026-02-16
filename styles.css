@@ -1,10 +1,10 @@
 
 body{
     background-image: linear-gradient(red 0%,orange 50%,yellow 100%);
-    margin-bottom:650px;
+    margin-bottom:600px;
 }
 h1{
-    color:black;
+    color:red;
     font-size:40px;
 }
 p{
@@ -12,12 +12,12 @@ p{
 }
 .center{
     text-align:center;
-    margin-top: 300px;
-    color:white;
+    margin-top: 75px;
+    color:red;
     font-family: "Trade Winds", system-ui;
 }
 a {
-    color:black;
+    color:red;
     font-size:35px;
 }
 a:hover{
@@ -29,4 +29,7 @@ a:hover{
     border:5px solid black;
     margin:100px 50px 50px 50px;
     padding:100px 100px 100px 100px;
+    margin-top:200px;
+    background-color:black;
+
 }
